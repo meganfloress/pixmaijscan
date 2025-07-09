@@ -41,7 +41,7 @@ How to Download IJ Scan Utility for PIXMA and MAXIFY Printers
 -------------------------------------------------------------
 
 ✅ **Step 1:** Go to Canon’s Official Setup Website  
-Open your web browser and visit: https://ij.start.canon
+Open your web browser and visit: `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
 
 ✅ **Step 2:** Enter Your Printer Model  
 On the homepage, enter your Canon PIXMA or MAXIFY printer model (for example, **PIXMA TS3522** or **MAXIFY MB2120**) into the search box and press **Enter**.
