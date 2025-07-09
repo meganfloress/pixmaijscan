@@ -107,5 +107,4 @@ Conclusion
 ----------
 
 Downloading and installing **IJ Scan Utility** for Canon PIXMA and MAXIFY printers is a quick, reliable, and effective way to simplify scanning tasks.  
-This free tool enhances your productivity by offering one-click, high-quality scans for documents, photos, and more.  
-Always use **ij.start.canon** to download the latest version of this essential utility, ensuring seamless compatibility and security for your Canon devices.
+This free tool enhances your productivity by offering one-click, high-quality scans for documents, photos, and more. Always use **ij.start.canon** to download the latest version of this essential utility, ensuring seamless compatibility and security for your Canon devices.
